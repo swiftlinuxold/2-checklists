@@ -1,0 +1,5 @@
+This repository contains the checklists for Swift Linux.
+
+Unless otherwise noted, Swift Linux should meet these criteria for all
+environments: the initial post-LMDE setup, the Swift Linux live CD, and the
+post-installation Swift Linux setup.

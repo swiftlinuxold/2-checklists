@@ -1,0 +1,22 @@
+CHECKLIST FOR BOOTUP
+
+LIVE CD AND POST-INSTALLATION SETUPS:
+
+In the GRUB menu, all references to Linux Mint should be gone and replaced with references to 
+Swift Linux.
+
+If you are booting up a special edition of Swift Linux, you should hear the corresponding
+startup audio clip as the desktop is loaded up.  (Make sure the audio is enabled.)
+
+LIVE CD ONLY:
+
+When booting up from the live CD, you should reach the Swift Linux desktop automatically.
+
+POST-INSTALLATION SETUP ONLY:
+
+You should get a login screen.  The computer name and the computer icon in the login box should
+be gone.  An instruction to press Cancel to try a different login name should be present.
+
+For the regular and diet editions, the login screen should show the standard Swift Linux
+wallpaper for LightDM.  For the special edition, the login screen should show the corresponding
+LightDM wallpaper.

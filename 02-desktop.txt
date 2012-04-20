@@ -1,0 +1,38 @@
+CHECKLIST FOR THE DESKTOP
+
+If you are in Regular Swift Linux or Diet Swift Linux, the standard
+ROX wallpaper should be displayed.  If you are in a special edition of
+Swift Linux, the corresponding ROX wallpaper should be displayed instead.
+
+If you are in Diet Swift Linux, there should be desktop icons giving
+you access to AbiWord and Gnumeric.  If you are in Regular Swift Linux
+or a special edition, you should have desktop icons giving you
+access to LibreOffice Writer and Calc instead.
+
+For all editions of Swift Linux, there should also be desktop icons
+giving you access to the PCManFM file manager, the Help pages, the
+/usr/share/applications directory, the Software Wizard, the control
+center, Geany, ROXTerm, mtPaint, the Network Wizard, Iceweasel, Sylpheed,
+a multimedia player, and SearchMonkey.
+
+The Conky display is at the bottom center of the desktop and shows
+which edition and version of Swift Linux you are using, what version of
+LMDE it is derived from.  Conky should also display the kernel, machine,
+time, date, CPU usage, RAM usage, swap usage, free space, and battery
+status.
+
+Main menu -> Applications gives you access to the applications listed in 
+the /usr/share/applications directory.
+
+Main menu -> Logout -> Logout gives you the options to exit the OS 
+(lock, log out, reboot, and shutdown).
+
+The toolbar in the lower left corner gives you options of closing all
+windows, pcmanfm, ROXTerm, Geany, Iceweasel, and exiting the OS.
+
+Main menu -> Settings -> Themes shows that win95 is the active theme.
+
+Live CD: The option of installing Swift Linux should be available through
+the desktop icon AND through Main Menu -> Applications -> System Tools.
+
+Post-installation: There should be NO option to install Swift Linux.
