@@ -1,0 +1,15 @@
+CHECKLIST FOR THE MENU
+
+The following entries should be present and work:
+Help (opens Help page in Iceweasel)
+Control Center
+Network Wizard
+File Manager (opens PCManFM)
+Terminal (opens ROXTerm)
+Web Browser (opens Help page in Iceweasel)
+Editor (to Geany)
+Applications (leads to sub-menus)
+Settings (leads to Focus and Themes sub-menus)
+Logout (leads to Logout, Lock, Restart IceWM, and Restart XTerm options)
+
+When you install a new package or remove a package, the menu should automatically update.

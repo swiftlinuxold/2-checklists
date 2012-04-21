@@ -1,0 +1,12 @@
+CHECKLIST FOR THE TOOLBAR
+
+The following buttons should be in the toolbar:
+Main menu
+Show Desktop
+Home (opens PCManFM)
+Terminal (opens ROXTerm)
+WWW (opens Help page in Iceweasel)
+Help (opens Help page in Iceweasel)
+Network Wizard
+Control Center
+Quit (opens Exit OS menu)

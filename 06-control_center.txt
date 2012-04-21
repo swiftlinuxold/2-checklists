@@ -1,0 +1,14 @@
+CHECKLIST FOR CONTROL CENTER
+
+Opening the Control Center should give you access to the following options:
+Change Monitor Display Settings (opens lxrandr)
+Hardware Wizard (provides access to GParted)
+System Information Wizard
+Network Wizard (provides access to ceni, GNOME-PPP, Firewall, and Ad Blocker)
+Printer Wizard
+Software Wizard (provides access to Synaptic and Software Center)
+System Wizard
+Wallpaper Wizard
+
+Control Center -> Network Wizard -> Firewall -> Unlock -> should show that the firewall
+is enabled

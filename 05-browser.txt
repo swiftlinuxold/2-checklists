@@ -1,0 +1,9 @@
+CHECKLIST FOR ICEWEASEL BROWSER
+
+When you go to Youtube, videos are blocked UNTIL you decide to play them.
+
+Go to Edit -> Preferences -> Privacy.  It should be set to never remember history.
+
+Log in to your Google Groups account, which saves your password by default.
+Close all Iceweasel windows and then re-enter Iceweasel.  Go back to Google
+Groups.  Your password should NOT be saved.
